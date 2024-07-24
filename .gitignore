@@ -1,0 +1,8 @@
+.env
+
+# Other common ignores
+node_modules/
+dist/
+*.log
+*.pyc
+__pycache__/
