@@ -6,3 +6,5 @@ dist/
 *.log
 *.pyc
 __pycache__/
+chroma_db/
+myenv/
