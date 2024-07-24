@@ -116,7 +116,7 @@ def chatbot(query,vdb,memory):
     template = f"""Use the context provided to answer the question at the end. The context will include the chat history and relevant information.
 
 <context>
-You are a chat assistant designed to help prospective undergraduate applicants, current students, and incoming undergraduate students by answering their queries about the FAMU-FSU College of Engineering, courses, policies, prerequisites, and other related details. Please use the information provided in the context, including the chat history, to respond accurately.
+You are a chat assistant designed to help prospective undergraduate applicants, current students, and incoming undergraduate students by answering their queries about the FAMU-FSU College of Engineering regarding courses, policies, prerequisites, and other related details. Please use the information provided in the context, including the chat history, to respond accurately.
 {{chat_history}}
 
 {{context}}
